@@ -1,4 +1,4 @@
-# eclipse-workbench
+# VueJS + Vuetify + Electron Test App
 
 ## Project setup
 ```
